@@ -1,0 +1,11 @@
+git remote -v
+
+git init 
+
+git remote add origin https://github.com/Chikitsa/miniproject.git
+
+git branch -M main
+
+git add .
+
+git commit -m "new"
